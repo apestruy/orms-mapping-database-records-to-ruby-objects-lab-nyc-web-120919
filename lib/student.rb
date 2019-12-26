@@ -28,6 +28,12 @@ class Student
     			end.first
   end
   
+  def 
+  
+  
+  end 
+  
+  
   def save
     sql = <<-SQL
       INSERT INTO students (name, grade) 
